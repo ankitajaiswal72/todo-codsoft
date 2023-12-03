@@ -76,7 +76,7 @@ input, button {
 }
 
 #new-task-input::placeholder {
-	color: var(--grey);
+	color: #000000;
 }
 
 #new-task-submit {
